@@ -15,7 +15,7 @@
 * 8:10 // 8:25 // ++__9:00 przyjazd__++
 ### Powrót
 ### Jedzenie
-* ++po angielskim Madzi++
+* ++po angielskim ++
 
 ### __Do zabrania__
 * naładowany telefon
