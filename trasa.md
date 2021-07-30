@@ -22,6 +22,7 @@
 * maseczka
 * karty
 * pas
+* miska
 * smaczki
 * woda
 * ciuchy na zmianę - koszulka/spodenki
