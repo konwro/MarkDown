@@ -1,0 +1,56 @@
+italics / bold
+---------------
+italic -> _words_
+bold -> **words**
+underline -> ++words++
+
+headers
+-------------
+
+header 1 -> # biggest
+header 2 -> ##
+header 6 -> ###### smallest
+
+links
+-------
+
+inline link -> [text](url)
+
+reference link
+	in text: [text][tag]
+
+	at the end: [tag]: url
+
+images
+--------
+
+inline image link -> ![alt text](url)
+
+reference image
+	![alt text][tag]
+	[tag]: url
+
+blockquotes
+-------------
+
+blackqoute (quote field) -> > text
+
+
+lists
+------
+
+unordered:
+	bullet (list) -> * word
+
+
+ordered:
+	number -> n.
+
+depth/nested list -> one more space than in upper level
+
+	
+paragrpahs
+----------
+hard break -> double new line (ENTER)
+soft break -> two (SPACE)s at the end of line
+
